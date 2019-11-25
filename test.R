@@ -1,4 +1,4 @@
-for(i in 1:10){
+for(i in 1:20){
   print(paste("This is print number",i))
 }
 
